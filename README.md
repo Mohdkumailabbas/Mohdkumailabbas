@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumail Abbas</h1>
-<h3 align="center">Next.js + PERN web developer: turning concepts into clean, fast sites</h3>
+<h3 align="center">I write code the way Gen-Z writes feelings:
+deep, chaotic, and somehow functional.
+Fueled by Next.js, React, PERN, and questionable amounts of coffee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdkumailabbas&label=Profile%20views&color=0e75b6&style=flat" alt="mohdkumailabbas" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **kumailabbasbbk@gmail.com**
 
-- ⚡ Fun fact **Can code websites faster than I can decide what to have for dinner. 🍕💻**
+- ⚡ Fun fact **My brain runs on React, but my heart runs on retries🍕💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
